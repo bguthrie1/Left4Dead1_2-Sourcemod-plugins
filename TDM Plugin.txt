@@ -1,0 +1,40 @@
+Survivors are able to respawn. The very basic fundamental command of TDM has been nailed. This gamemode is based on Versus.
+
+Now its just additions from here on in. Additions include:
+
+Special Infected claw damage adjustment. (done)
+KillTracking. (done)
+Time limit on maps (may have to pause the map for that)
+Different respawn locations for survivors.
+Weapon choice. (Use menus) (somewhat done)
+Kill rewards.
+Choice of Friendly fire on or off. (somewhat done, infected need to be done too)
+
+Kill rewards:
+
+Survivors:
+
+Get a random item after 3 kills
+
+Access to Tier 2 weapons after 5 kills
+
+Access to Tier 3 weapons after 7 kills
+
+Infected:
+
+Call in a horde after 3 kills
+
+Call in a witch after 5 kills
+
+Play as a tank after 7 kills
+
+
+Things to find out in coding:
+
+How do you put a userid onto an entity?
+
+How do you transfer a string to a function?
+
+Kill Rewards questions:
+
+Should they be accessible via menu? Or should the rewards automatically take effect?
